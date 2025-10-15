@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarefa14Out", "tarefa14Out\tarefa14Out.csproj", "{BC792BD5-6801-4D72-A254-65F9F8DA346C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa01", "tarefa14Out\Tarefa01.csproj", "{BC792BD5-6801-4D72-A254-65F9F8DA346C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa02", "Tarefa02\Tarefa02.csproj", "{52123E83-A4B2-44AF-A566-E8382A22245C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa03", "Tarefa03\Tarefa03.csproj", "{2F7523E2-CCB1-4F4F-A371-8EF05CE5B781}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{BC792BD5-6801-4D72-A254-65F9F8DA346C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC792BD5-6801-4D72-A254-65F9F8DA346C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC792BD5-6801-4D72-A254-65F9F8DA346C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52123E83-A4B2-44AF-A566-E8382A22245C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52123E83-A4B2-44AF-A566-E8382A22245C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52123E83-A4B2-44AF-A566-E8382A22245C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52123E83-A4B2-44AF-A566-E8382A22245C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7523E2-CCB1-4F4F-A371-8EF05CE5B781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7523E2-CCB1-4F4F-A371-8EF05CE5B781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7523E2-CCB1-4F4F-A371-8EF05CE5B781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7523E2-CCB1-4F4F-A371-8EF05CE5B781}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
