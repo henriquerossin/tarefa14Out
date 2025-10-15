@@ -12,7 +12,6 @@ namespace tarefa14Out
     {
         public PagamentoCartaoDeCredito(double valor, DateTime dataDePagamento) : base(valor, dataDePagamento)
         {
-
         }
 
         public override void ProcessarPagamento()

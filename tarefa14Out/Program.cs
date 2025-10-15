@@ -33,7 +33,6 @@
                 return boleto;
             }
 
-
             void ExecutarOperacao()
             {
                 int opcao = 0;
@@ -63,7 +62,6 @@
 
                 } while (opcao != 3);
             }
-
             ExecutarOperacao();
         }
     }

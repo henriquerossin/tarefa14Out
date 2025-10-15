@@ -10,7 +10,6 @@ namespace tarefa14Out
     {
         public PagamentoBoleto(double valor, DateTime dataDePagamento) : base(valor, dataDePagamento)
         {
-
         }
 
         public override void ProcessarPagamento()
@@ -26,7 +25,6 @@ namespace tarefa14Out
             double ValorFinal = (GetValor()) * (1 + juros);
 
             Console.WriteLine($"Pagamento final em boleto: {ValorFinal:F2}");
-
         }
     }
 }

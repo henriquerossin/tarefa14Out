@@ -8,7 +8,6 @@ namespace tarefa14Out
 {
     public abstract class Pagamento
     {
-
         private double Valor { get; set; }
 
         private DateTime DataDePagamento { get; set; }
@@ -20,6 +19,7 @@ namespace tarefa14Out
         }
         public virtual void ProcessarPagamento()
         {
+
         }
 
         public void SetValor(double valor)
