@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Tarefa04
+{
+    internal class PushNotification : Notificacao
+    {
+        public PushNotification()
+        {
+        }
+
+        public override void Enviar(string mensagem)
+        {
+            base.Enviar(mensagem);
+            Console.WriteLine("Enviado por PushNotification");
+        }
+    }
+}
